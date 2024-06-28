@@ -11,7 +11,7 @@ body {
 }
 
 .post-content p {
-    margin-bottom: 0.5rem;
+    margin-bottom: 1rem;
 }
 
 .post-content h1 {
@@ -34,8 +34,9 @@ body {
 
 .post-content a:hover {
     text-decoration: underline;
+    background-color: aquamarine;
 }
 
 .dark .post-content a {
-    color: red;
+    color: blue;
 }
